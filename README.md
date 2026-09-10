@@ -117,7 +117,7 @@ Modern **Document AI** and **Intelligent Document Processing (IDP)** unify **OCR
 
 ## ⭐ Open-Source Document AI Ecosystem
 
-*Leading open-source document parsing, layout analysis, OCR engines, and document VLMs, sorted by GitHub stars (descending):*
+*Leading open-source document parsing, layout analysis, OCR engines, and document VLMs, sorted by GitHub_Stars (descending):*
 
 | Project | License | Primary Focus | Description |
 | :--- | :--- | :--- | :--- |
